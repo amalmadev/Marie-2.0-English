@@ -24,7 +24,6 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 you can create clone same like me [CONTACT](https://t.me/THEWIZARD666)
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
