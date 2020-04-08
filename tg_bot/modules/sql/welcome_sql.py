@@ -6,7 +6,7 @@ from tg_bot.modules.helper_funcs.msg_types import Types
 from tg_bot.modules.sql import SESSION, BASE
 
 DEFAULT_WELCOME = "Hey {first}, We hope you'll do some amazing works here! A warm welcome and lots of good wishes on becoming part of our growing team. Congratulations and on behalf of all the members. ...Warmestwelcome!"
-DEFAULT_GOODBYE = "Nice knowing ya!"
+DEFAULT_GOODBYE = "Hey you {first}, I’ll say goodbye, only if you promise to bring me expensive gifts when you return!."
 
 
 class Welcome(BASE):
