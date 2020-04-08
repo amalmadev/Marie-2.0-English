@@ -24,7 +24,6 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 you can create clone same like me [CONTACT](https://t.me/THEWIZARD666)
 
-
 """
 
 HELP_STRINGS = """
